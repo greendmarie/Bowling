@@ -1,0 +1,7 @@
+c:\users\dana marie\source\repos\Bowling Program\Bowling Program\bin\Debug\Bowling Program.exe.config
+c:\users\dana marie\source\repos\Bowling Program\Bowling Program\bin\Debug\Bowling Program.exe
+c:\users\dana marie\source\repos\Bowling Program\Bowling Program\bin\Debug\Bowling Program.pdb
+c:\users\dana marie\source\repos\Bowling Program\Bowling Program\obj\Debug\Bowling Program.csprojResolveAssemblyReference.cache
+c:\users\dana marie\source\repos\Bowling Program\Bowling Program\obj\Debug\Bowling Program.csproj.CoreCompileInputs.cache
+c:\users\dana marie\source\repos\Bowling Program\Bowling Program\obj\Debug\Bowling Program.exe
+c:\users\dana marie\source\repos\Bowling Program\Bowling Program\obj\Debug\Bowling Program.pdb
